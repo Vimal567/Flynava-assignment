@@ -1,0 +1,38 @@
+.footer {
+  background: linear-gradient(to right, #0b5ba8, #299bd8);
+  padding: 2rem 4rem 2rem 4rem;
+  color: white;
+}
+
+.vertical {
+  border-left: 0.1px solid white;
+  height: 10rem;
+  position: absolute;
+  left: 50%;
+}
+
+.footer p{
+    max-width: 35rem;
+}
+
+.social-icons{
+    margin-right: 1rem;
+}
+
+.footer button{
+    color: white;
+    background-color: inherit;
+    border: none;
+    text-align: left;
+    width: 9rem;
+}
+
+.footer button:hover{
+    color: rgb(204, 203, 203);
+}
+
+@media screen and (width < 900px) {
+    .vertical{
+        display: none;
+    }
+}

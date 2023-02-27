@@ -1,0 +1,26 @@
+.header {
+  width: 100vw;
+  height: 3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-links {
+  width: 47px;
+  height: 16px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #1262af;
+  margin-right: 2rem;
+  border: none;
+  background-color: inherit;
+  cursor: pointer;
+}
+
+.nav-links:hover {
+  transform: scale(1.1);
+}

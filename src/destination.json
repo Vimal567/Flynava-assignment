@@ -1,0 +1,22 @@
+[
+  {
+    "place": "Paris",
+    "image": "https://media.istockphoto.com/id/1318291081/photo/metal-eiffel-tower.jpg?b=1&s=170667a&w=0&k=20&c=_aUcIj5C7V8QY5KN5O3caLPCEdYnfZ3RQOfSQme01vg=",
+    "cost": 699
+  },
+  {
+    "place": "Greece",
+    "image": "https://media.istockphoto.com/id/510967662/photo/santorini-sunset-at-dawn-village-of-oia-greece.jpg?b=1&s=170667a&w=0&k=20&c=xR2Ywl501wY-aTpJUIBfUVjHe5LVHEQLLrlcODXNyss=",
+    "cost": 1079
+  },
+  {
+    "place": "Norway",
+    "image": "https://media.istockphoto.com/id/1049922746/photo/colorful-aurora-borealis.jpg?b=1&s=170667a&w=0&k=20&c=Ivt3r88320Mgv77MI33RlStJAGPWZy9riRu21thOEuQ=",
+    "cost": 895
+  },
+  {
+    "place": "Tuscany",
+    "image": "https://media.istockphoto.com/id/1279401174/photo/castiglione-della-pescaia-old-town-and-sea-maremma-tuscany-italy.jpg?b=1&s=170667a&w=0&k=20&c=YK5PTYmXarXh-ugVZkDcg1-euKctmvepo40JhP7HRuw=",
+    "cost": 1245
+  }
+]

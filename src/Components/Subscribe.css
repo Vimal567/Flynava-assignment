@@ -1,0 +1,30 @@
+.subscribe {
+  padding: 1rem;
+}
+
+.subsribe-heading-container {
+  text-align: center;
+}
+
+.subsribe-heading-container h6 {
+  color: rgb(18, 98, 174);
+}
+
+.form {
+  max-width: 85rem;
+  background-color: white;
+  padding: 2rem;
+}
+
+.form div {
+  text-align: left;
+}
+
+.submit {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.submit button {
+  background-color: orange;
+}

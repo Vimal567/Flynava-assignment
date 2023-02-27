@@ -1,0 +1,102 @@
+.dashboard {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  background-color: white;
+}
+
+.sub-heading {
+  display: flex;
+  justify-content: space-between;
+}
+.sub-heading span {
+  font-size: x-large;
+  font-weight: bold;
+}
+.sub-heading button {
+  border: none;
+  background-color: inherit;
+  font-size: larger;
+  font-weight: bold;
+  color: #1262ae;
+  display: flex;
+  align-items: center;
+}
+
+.destination-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.destination-card {
+  position: relative;
+  width: 15rem;
+  height: 12rem;
+  border-radius: 12px;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.destination-card img {
+  width: 15rem;
+  height: 12rem;
+  border-radius: 12px;
+}
+.destination-card img:hover {
+  transform: scale(1.1);
+  filter: brightness(80%);
+  transition: 0.7s;
+}
+.location-name {
+  position: absolute;
+  top: 3%;
+  left: 3%;
+  font-weight: 500;
+  color: white;
+}
+.location-from {
+  position: absolute;
+  top: 3%;
+  right: 3%;
+  font-weight: 500;
+  color: white;
+}
+.location-cost {
+  position: absolute;
+  top: 15%;
+  right: 3%;
+  font-weight: 500;
+  color: white;
+}
+
+.holiday-card {
+  position: relative;
+  width: 15rem;
+  border-radius: 12px 12px 0px 0px;
+  cursor: pointer;
+  overflow: hidden;
+}
+.holiday-card img {
+  width: 15rem;
+  height: 12rem;
+  border-radius: 12px 12px 0px 0px;
+}
+.holiday-card img:hover {
+  transform: scale(1.1);
+  filter: brightness(80%);
+  transition: 0.7s;
+}
+
+.holiday-details{
+    display: flex;
+    justify-content: space-between;
+}
+
+.holiday-cost{
+    padding-right: 1rem;
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(18, 98, 175);
+}

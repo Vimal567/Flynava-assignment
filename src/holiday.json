@@ -1,0 +1,27 @@
+[
+    {
+      "place": "Bali",
+      "image": "https://media.istockphoto.com/id/1310879355/photo/sunrise-over-rice-terraces-bali-mountains-and-volcano-are-on-the-background-view-from-above.jpg?b=1&s=170667a&w=0&k=20&c=Y6_GWdkeWjHyDFnCDBQSWezZE44WUstN-P6KonB632w=",
+      "cost": 899,
+      "code": "4D3N"
+    },
+    {
+        "place": "Swiss",
+        "image": "https://media.istockphoto.com/id/475439326/photo/bern.jpg?b=1&s=170667a&w=0&k=20&c=qwyVgmjIJ-UPpa_ZjwXILf4umEbO9xocnoYbMVupnlc=",
+        "cost": 900,
+        "code": "6D5N"
+    },
+    {
+        "place": "Boracay",
+        "image": "https://media.istockphoto.com/id/477724943/photo/holiday-in-the-sun.jpg?b=1&s=170667a&w=0&k=20&c=1jodb2GTimQtAv5cBmlPaMhfqhP91zszkxQtQLMODf4=",
+        "cost": 699,
+        "code": "5D4N"
+    },
+    {
+        "place": "Palawan",
+        "image": "https://media.istockphoto.com/id/576724290/photo/el-nido-philippines.jpg?b=1&s=170667a&w=0&k=20&c=dM5HO9e-Yr1uDAoVE_1l5mtcF6QsQbQ0LotyRre7iV0=",
+        "cost": 789,
+        "code": "4D3N"
+    }
+  ]
+  
