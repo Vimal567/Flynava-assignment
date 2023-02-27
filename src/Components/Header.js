@@ -8,6 +8,7 @@ import NotificationsNoneIcon from "@mui/icons-material/NotificationsNone";
 export default function Header() {
   return (
     <div>
+      {/* Navbar created using bootstrap classes */}
       <Navbar className="fixed-top header" bg="white" expand="lg">
         <Container>
           <Navbar.Brand

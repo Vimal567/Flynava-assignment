@@ -11,28 +11,30 @@
   left: 50%;
 }
 
-.footer p{
-    max-width: 35rem;
+.footer p {
+  max-width: 35rem;
 }
 
-.social-icons{
-    margin-right: 1rem;
+.social-icons {
+  margin-right: 1rem;
 }
 
-.footer button{
-    color: white;
-    background-color: inherit;
-    border: none;
-    text-align: left;
-    width: 9rem;
+.footer button {
+  color: white;
+  background-color: inherit;
+  border: none;
+  text-align: left;
+  width: 9rem;
 }
 
-.footer button:hover{
-    color: rgb(204, 203, 203);
+.footer button:hover {
+  color: rgb(204, 203, 203);
 }
+
+/* When viewed in mobile devices the vertical separator removed */
 
 @media screen and (width < 900px) {
-    .vertical{
-        display: none;
-    }
+  .vertical {
+    display: none;
+  }
 }

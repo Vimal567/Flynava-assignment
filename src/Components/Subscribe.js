@@ -34,7 +34,7 @@ const Subscribe = () => {
           </Form.Group>
           <div className="submit">
             <Button variant="contained" color="success" type="submit">
-              submit
+              Submit
             </Button>
           </div>
         </Form>

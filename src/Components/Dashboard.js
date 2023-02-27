@@ -1,8 +1,8 @@
 import "./Dashboard.css";
 import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
 import { Grid, Stack } from "@mui/material";
-import destination from "../destination.json";
-import holiday from "../holiday.json";
+import destination from "../destination.json";//data for destination details
+import holiday from "../holiday.json";//data for holiday details
 
 const Dashboard = () => {
   return (
@@ -56,8 +56,8 @@ const Dashboard = () => {
                       borderRadius: "0px 0px 12px 12px ",
                     }}
                   >
-                    <Stack style={{paddingLeft: "1rem"}}>
-                      <span style={{fontWeight: "bold"}}>{data.place}</span>
+                    <Stack style={{ paddingLeft: "1rem" }}>
+                      <span style={{ fontWeight: "bold" }}>{data.place}</span>
                       <span>{data.code}</span>
                     </Stack>
                     <div className="holiday-cost">${data.cost}</div>
